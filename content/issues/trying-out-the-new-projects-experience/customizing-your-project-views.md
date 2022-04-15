@@ -1,5 +1,5 @@
----
-title: Customizing your project (beta) views
+Crypto holder and transaction-
+title: Customizing your project (Betta) views
 intro: 'Display the information you need by changing the layout, grouping, sorting, and filters in your project.'
 allowTitleToDifferFromFilename: true
 versions:
